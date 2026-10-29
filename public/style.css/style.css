@@ -1,0 +1,12 @@
+/* Custom CSS styles for Nyein's Blog */
+body {
+    background-color: #f9fafb;
+    font-family: 'Inter', sans-serif;
+    color: #1f2937;
+}
+
+/* Custom Card Hover Effect များ ထည့်လိုပါက ဒီမှာ ရေးနိုင်ပါတယ် */
+.blog-card:hover {
+    transform: translateY(-4px);
+    transition: all 0.3s ease;
+}
